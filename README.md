@@ -10,3 +10,4 @@ improve python skills
 ## Day 2
 learned about Nmap
 understood basic scanning
+learned about penetration testing careers
