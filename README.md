@@ -7,3 +7,6 @@ learned about penetration testing basics
 learn networking
 practice tools like Nmap
 improve python skills
+## Day 2
+learned about Nmap
+understood basic scanning
